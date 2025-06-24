@@ -1,1 +1,21 @@
-# Tableau-Dashboards
+# 📊 Stock Market Business Analyst Dashboard
+
+This Tableau dashboard visualizes stock data for AAPL, MSFT, GOOG, and NFLX.  
+It includes:
+- High/Low price comparisons
+- Volume distribution
+- Weekly closing trends
+- Interactive filters
+
+## 🔍 Insights:
+- AAPL has the highest volume (most traded)
+- NFLX has highest prices and volatility
+- MSFT shows consistent upward trend
+- GOOG has stable but lower prices
+
+## 📷 Screenshot
+![Screenshot 2025-06-24 211341](https://github.com/user-attachments/assets/62daac12-18e7-49f9-a611-fbbdc2d878dd)
+
+## 🛠️ Tools Used
+- Tableau
+- Excel (for preprocessing)
